@@ -119,7 +119,7 @@ repositories:
     version: main
   romea_ros2/demos/tirrex/tirrex_cinteo:
     type: git
-    url: git@gitlab-ssh.irstea.fr:tirrex/cinteo.git
+    url: git@gitlab-ssh.irstea.fr:tirrex/romea_projects/cinteo.git
     version: main
 
   third_party/serial:
